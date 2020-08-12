@@ -34,3 +34,16 @@ body {
 .c-btn-color {
   background-color: #B4BE75;
 }
+
+.c-card {
+  background-color: #B4BE75;
+}
+
+.c-card-btn {
+  color: black;
+  text-decoration: none !important;
+ }
+
+ .c-card-btn:hover {
+   color: black;
+ }
