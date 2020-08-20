@@ -10,12 +10,12 @@ body {
 
 #logo-nav {
   height: 75px;
-  width: 75px;
+  width: 60px;
 }
 
 #logo-main {
   height: 200px;
-  width: 200px;
+  width: 175px;
 }
 
 .button-border {
@@ -25,12 +25,23 @@ body {
 }
 
 #page-2-button {
-  background-image: url("testImage.jpg");
+  background-image: url("Interests.png");
+  background-size: 95px;
 }
 
 #page-3-button {
-  background-image: url("Button_3.png");
-  
+  background-image: url("fixedPoliCompass.png");
+  background-size: cover;
+}
+
+#page-4-button {
+  background-image: url("fixedStarEyes.png");
+  background-size: cover;
+}
+
+#page-5-button {
+  background-image: url("https://www.pngitem.com/pimgs/m/21-215884_telephone-icon-png-phone-emoji-transparent-background-png.png");
+  background-size: cover; 
 }
 
 .c-btn-color {
@@ -56,6 +67,7 @@ body {
 
  .c-anchor {
    color: black;
+   
  }
 
  .c-anchor:hover {
@@ -65,4 +77,10 @@ body {
 .contact-img {
   width: 75px;
   height: 75px;
+}
+
+#blm-fist {
+  width: 300px;
+  height: 400px;
+  
 }
