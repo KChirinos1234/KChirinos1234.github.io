@@ -1,5 +1,7 @@
 body {
   background-image: url("Pineapple Background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #nav-basic {
@@ -59,3 +61,8 @@ body {
  .c-anchor:hover {
    color: black;
  }
+
+.contact-img {
+  width: 75px;
+  height: 75px;
+}
